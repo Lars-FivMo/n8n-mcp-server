@@ -36,4 +36,4 @@ claude mcp add n8n --scope user \
 
 ## License
 
-[Apache 2.0](../LICENSE)
+[Apache 2.0](LICENSE)
